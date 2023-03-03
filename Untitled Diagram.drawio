@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T14:38:22.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cig3djBV5RkxTVRg_qXb" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T15:00:29.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HZxRVb0z6vDI6GkF6N4Z" version="21.0.2" type="github">
   <diagram name="Page-1" id="-x34nBCayUz2G2XF2izU">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,33 +54,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tcn-RCk6qh0WuU4IWzXa-40" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="37" y="300" width="373" height="96" as="geometry" />
+          <mxGeometry x="37" y="300" width="373" height="93" as="geometry" />
         </mxCell>
         <mxCell id="Tcn-RCk6qh0WuU4IWzXa-41" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="Tcn-RCk6qh0WuU4IWzXa-40" vertex="1">
-          <mxGeometry width="373" height="33" as="geometry" />
+          <mxGeometry width="373" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tcn-RCk6qh0WuU4IWzXa-42" value="Attribute ID" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="Tcn-RCk6qh0WuU4IWzXa-41" vertex="1">
-          <mxGeometry width="93" height="33" as="geometry">
-            <mxRectangle width="93" height="33" as="alternateBounds" />
+          <mxGeometry width="93" height="30" as="geometry">
+            <mxRectangle width="93" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tcn-RCk6qh0WuU4IWzXa-43" value="ID" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="Tcn-RCk6qh0WuU4IWzXa-41" vertex="1">
-          <mxGeometry x="93" width="94" height="33" as="geometry">
-            <mxRectangle width="94" height="33" as="alternateBounds" />
+          <mxGeometry x="93" width="94" height="30" as="geometry">
+            <mxRectangle width="94" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tcn-RCk6qh0WuU4IWzXa-44" value="Value" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="Tcn-RCk6qh0WuU4IWzXa-41" vertex="1">
-          <mxGeometry x="187" width="93" height="33" as="geometry">
-            <mxRectangle width="93" height="33" as="alternateBounds" />
+          <mxGeometry x="187" width="93" height="30" as="geometry">
+            <mxRectangle width="93" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tcn-RCk6qh0WuU4IWzXa-66" value="Numeric Value" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="Tcn-RCk6qh0WuU4IWzXa-41" vertex="1">
-          <mxGeometry x="280" width="93" height="33" as="geometry">
-            <mxRectangle width="93" height="33" as="alternateBounds" />
+          <mxGeometry x="280" width="93" height="30" as="geometry">
+            <mxRectangle width="93" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tcn-RCk6qh0WuU4IWzXa-45" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="Tcn-RCk6qh0WuU4IWzXa-40" vertex="1">
-          <mxGeometry y="33" width="373" height="32" as="geometry" />
+          <mxGeometry y="30" width="373" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Tcn-RCk6qh0WuU4IWzXa-46" value="1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" parent="Tcn-RCk6qh0WuU4IWzXa-45" vertex="1">
           <mxGeometry width="93" height="32" as="geometry">
@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tcn-RCk6qh0WuU4IWzXa-49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" parent="Tcn-RCk6qh0WuU4IWzXa-40" vertex="1">
-          <mxGeometry y="65" width="373" height="31" as="geometry" />
+          <mxGeometry y="62" width="373" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Tcn-RCk6qh0WuU4IWzXa-50" value="1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" parent="Tcn-RCk6qh0WuU4IWzXa-49" vertex="1">
           <mxGeometry width="93" height="31" as="geometry">
@@ -125,10 +125,10 @@
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tcn-RCk6qh0WuU4IWzXa-71" value="Item Attribute" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="Tcn-RCk6qh0WuU4IWzXa-71" value="Item Attribute(Table 7500)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="340" y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tcn-RCk6qh0WuU4IWzXa-72" value="Item Attribute Value" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="Tcn-RCk6qh0WuU4IWzXa-72" value="Item Attribute Value(Tafla 7501)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="160" y="270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tcn-RCk6qh0WuU4IWzXa-73" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.622;exitY=1.031;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Tcn-RCk6qh0WuU4IWzXa-14" target="Tcn-RCk6qh0WuU4IWzXa-41" edge="1">
